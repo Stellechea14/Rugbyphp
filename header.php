@@ -22,6 +22,18 @@
 <div id="header" class="navbar">
    <div class="navbar-header" >
      <img id="Mainlogo" src="images/Rugbyscore.png"> <img src="images/resultados.png" width="85%">
+     <nav>
+        <div class="main-wrapper">
+            <div class="nav-login">
+                <form>
+                    <input type="text" name="uid" placeholder="Username/e-mail">
+                    <input type"password" name="pwd" placeholder="password">
+                    <button type="submit" name="submit">Login</button>
+                    <a href="signup.php">Sign up</a>
+                </form>
+               
+        </div>
+    </nav>
 
     </div>
 </div>
