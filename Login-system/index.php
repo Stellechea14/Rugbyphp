@@ -57,7 +57,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
           </div>
           
           <p class="forgot"><a href="forgot.php">Recuperar Password</a></p>
-          <p class="forgot"><a href="C:\xampp\htdocs\Rugby\Rugbyscores.php">Volver</a></p>
+            
           
           <button class="button button-block" name="login" />Log In</button>
           

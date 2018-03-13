@@ -12,11 +12,13 @@ footer
 
 .jumbotron {
     background-color:white !important; 
+    min-height: 600px !important    ;
     
 }
 
 .breadcrumb {
-    background-color:whitesmoke !important; 
+    background-color:whitesmoke !important;
+    
 
 }
 
@@ -143,3 +145,4 @@ header .nav-login a {
     line-height: 50px;
     text-align: center;
 }
+

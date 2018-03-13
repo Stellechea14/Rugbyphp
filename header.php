@@ -87,7 +87,7 @@
         <button class="dropbtn"> <a href="#"><strong>Cuenta</strong></a></button>
     </div>
     <div class="dropdown">
-        <button class="dropbtn"> <a href="login-system/index.php"><strong>Log in</strong></a></button>
+        <button class="dropbtn"> <a href="Login.php"><strong>Log in</strong></a></button>
     </div>
     </body>
 
